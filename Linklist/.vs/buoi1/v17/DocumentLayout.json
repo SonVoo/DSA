@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\s\\buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FEB8C-16AB-4FE4-9013-6ADAA1B49896}|buoi1.vcxproj|D:\\s\\buoi1\\buoi1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C16FEB8C-16AB-4FE4-9013-6ADAA1B49896}|buoi1.vcxproj|solutionrelative:buoi1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buoi1.cpp",
+              "DocumentMoniker": "D:\\s\\buoi1\\buoi1.cpp",
+              "RelativeDocumentMoniker": "buoi1.cpp",
+              "ToolTip": "D:\\s\\buoi1\\buoi1.cpp",
+              "RelativeToolTip": "buoi1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-16T10:13:49.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
